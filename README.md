@@ -1,5 +1,6 @@
 # Sistema-Reciclaje-IA
 #WEB: https://clasificacion-residuos-i-pynohfm.gamma.site/
+# Video: https://notebooklm.google.com/notebook/0a3d0237-7608-4827-a140-24606ba8f0a8?artifactId=6ab371b9-748b-4944-be88-3cadd3f06e64
 
 ---
 
